@@ -19,8 +19,6 @@ Hi, I'm [Sahad](https://www.sahadsalim.github.io), a Full Stack Engineer 🚀 fr
 - 📝 My [Portfolio](https://www.sahadsalim@github.io/)
   
   <br/>
-<-- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com)-->
-<-- 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/arslanameer)-->
 
 **Languages and Tools:**  
 
