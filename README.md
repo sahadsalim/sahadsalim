@@ -16,9 +16,11 @@ Hi, I'm [Sahad](https://www.sahadsalim.github.io), a Full Stack Engineer 🚀 fr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Ionic, NestJs & Loopback4; 
 - 💬 Ask me about anything, I am happy to help;
+- 📝 My [Portfolio](https://www.sahadsalim@github.io/)
+  
+  <br/>
 <-- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com)-->
 <-- 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/arslanameer)-->
-- 📝 My [Portfolio](https://www.sahadsalim@github.io/)
 
 **Languages and Tools:**  
 
